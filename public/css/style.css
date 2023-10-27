@@ -1,0 +1,33 @@
+
+
+
+.brand-logo{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+
+body,
+h1 {
+    font-family: "Raleway", sans-serif
+}
+
+body,
+html {
+    height: 100%
+}
+
+.bgimg {
+    background-image: url('/img/Voice_bot.gif');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    /* opacity: 0.7; */
+}
+
+.text-style{
+    font-size: 90px;
+    text-shadow:black;
+    font-weight: bold;
+}
